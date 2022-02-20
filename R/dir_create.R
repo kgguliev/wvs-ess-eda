@@ -1,0 +1,5 @@
+if (!dir.exists("R")) dir.create("R")
+if (!dir.exists("data")) dir.create("data")
+if (!dir.exists("output")) dir.create("output")
+if (!dir.exists("misc")) dir.create("misc")
+if (!dir.exists("archive")) dir.create("archive")
